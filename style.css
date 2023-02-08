@@ -664,7 +664,7 @@ h3 {
 
 .team-title span {
     font-size: 3rem;
-    color: #f36100;
+    color: #f30000;
     text-transform: uppercase;
     font-weight: 700;
     margin: 0px 37% 0px 38%;
@@ -685,7 +685,7 @@ section.reviews {
 }
 
 h1 {
-    color: #f36100;
+    color: #f30000;
 }
 
 .reviews {
@@ -738,7 +738,7 @@ h1 {
 }
 
 .reviews-1 .fa {
-    color: #f36100;
+    color: #f30000;
 }
 
 /* Contact Form */
