@@ -155,7 +155,7 @@ body {
 }
 
 .hs-slider .hs-item .hi-text h1 strong {
-    color: #f36100;
+    color: #f30000;
 }
 
 .hs-slider .hs-item .hi-text .primary-btn {
@@ -179,7 +179,7 @@ body {
 }
 
 .cs-item:hover span {
-    background: #f36100;
+    background: #f30000;
     color: #ffffff;
 }
 
@@ -189,7 +189,7 @@ body {
     background: rgba(255, 255, 255, 0.1);
     border-radius: 50%;
     display: inline-block;
-    color: #f36100;
+    color: #f30000;
     line-height: 90px;
     text-align: center;
     -webkit-transition: all 0.3s;
@@ -241,7 +241,7 @@ section {
 
 .section-title span {
     font-size: 16px;
-    color: #f36100;
+    color: #f30000;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -268,7 +268,7 @@ section {
     background: rgba(255, 255, 255, 0.1);
     border-radius: 50%;
     display: inline-block;
-    color: #f36100;
+    color: #f30000;
     line-height: 90px;
     text-align: center;
     -webkit-transition: all 0.3s;
@@ -630,7 +630,7 @@ h2 {
 .icon {
     font-size: x-large;
     justify-content: normal;
-    color: #f36100;
+    color: #f30000;
     /* align-content: center; */
     /* align-items: center; */
     margin: 0px 50% 0px 50%;
@@ -643,12 +643,12 @@ h3 {
 }
 
 .aboutus:hover {
-    box-shadow: 8px 19px 4px 6px #f36100;
+    box-shadow: 8px 19px 4px 6px #f30000;
     background: moccasin;
 }
 
 .aboutuss:hover {
-    box-shadow: 8px 19px 4px 6px #f36100;
+    box-shadow: 8px 19px 4px 6px #f30000;
     background: moccasin;
 }
 
